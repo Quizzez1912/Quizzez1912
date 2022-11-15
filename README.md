@@ -4,5 +4,5 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/kGK9Qb4/skills2.png" alt="skills" border="0">
+<img src="https://i.ibb.co/fQ9P2tc/skills3.png" alt="skills" border="0">
 </p>
