@@ -1,4 +1,4 @@
-# I'm Robert Welcome to my Github page
+# Welcome to my Github page
 ### I'm Robert and I'm in my third year of studies towards a bachelor's in Media Computer Sciences.
 
 
