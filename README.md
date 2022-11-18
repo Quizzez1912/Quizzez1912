@@ -1,5 +1,5 @@
 # Welcome to my Github page
-### I'm Robert and I'm in my third year of studies towards a bachelor's in Media Computer Sciences.
+### I'm Robert and I'm in my fourth year of studies towards a bachelor's in Media Computer Sciences.
 
 
 
